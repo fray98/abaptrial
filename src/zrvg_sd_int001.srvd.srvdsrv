@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS'
+define service ZRVG_SD_INT001 {
+  expose zrvg_cds_int_001;
+}
